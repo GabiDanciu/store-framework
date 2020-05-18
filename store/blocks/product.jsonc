@@ -56,9 +56,9 @@
   "sku-selector":{
     "props":{
       "initialSelection":"empty",
-      "showValueNameForImageVariation":true,
-      "showValueForVariation":true,
-      "showVariationsErrorMessage":true
+      "showValueNameForImageVariation":"true",
+      "showValueForVariation":"true",
+      "showVariationsErrorMessage":"true"
     }
   },
   "product-price":{
