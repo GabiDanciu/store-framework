@@ -29,7 +29,7 @@
   "product-band":{
     "props":{
       "displayMode": "logo",
-      "height ": "30"
+      "height ": 30
     }
   },
   "flex-layout.col#right": {
