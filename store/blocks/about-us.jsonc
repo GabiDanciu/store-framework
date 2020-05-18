@@ -48,7 +48,9 @@
     }
   },
   "tab-content.item#home2": {
-   
+    "children": [
+      "iframe"
+    ],
     "props": {
       "tabId": "electronics"
     }
